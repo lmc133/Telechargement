@@ -1,0 +1,35 @@
+<INFO> 3-Oct-2018::14:31:28.941 dagobah confd[5354]: netconf id=28 new tcp session for user "etu" from ::1
+<INFO> 3-Oct-2018::14:48:24.747 dagobah confd[5354]: netconf id=29 new tcp session for user "etu" from ::1
+<INFO> 3-Oct-2018::16:16:12.950 dagobah confd[5354]: netconf id=30 new tcp session for user "etu" from ::1
+<INFO> 3-Oct-2018::16:16:24.481 dagobah confd[5354]: netconf id=30 got rpc: {urn:ietf:params:xml:ns:netconf:base:1.0}get-config attrs: message-id="urn:uuid:7675e293-64e8-4850-9d0b-59a401624e96"
+<INFO> 3-Oct-2018::16:16:24.485 dagobah confd[5354]: netconf id=30 get-config source=running attrs: message-id="urn:uuid:7675e293-64e8-4850-9d0b-59a401624e96"
+<INFO> 3-Oct-2018::16:16:24.492 dagobah confd[5354]: netconf id=30 sending rpc-reply, attrs: message-id="urn:uuid:7675e293-64e8-4850-9d0b-59a401624e96"
+<INFO> 3-Oct-2018::16:16:43.443 dagobah confd[5354]: netconf id=30 got rpc: {urn:ietf:params:xml:ns:netconf:base:1.0}get-config attrs: message-id="urn:uuid:b9031744-4160-4b24-b91e-46fb570e7347"
+<INFO> 3-Oct-2018::16:16:43.444 dagobah confd[5354]: netconf id=30 get-config source=candidate attrs: message-id="urn:uuid:b9031744-4160-4b24-b91e-46fb570e7347"
+<INFO> 3-Oct-2018::16:16:43.454 dagobah confd[5354]: netconf id=30 sending rpc-reply, attrs: message-id="urn:uuid:b9031744-4160-4b24-b91e-46fb570e7347"
+<INFO> 3-Oct-2018::16:16:51.375 dagobah confd[5354]: netconf id=30 got rpc: {urn:ietf:params:xml:ns:netconf:base:1.0}get-config attrs: message-id="urn:uuid:c52bdc21-8750-42ee-a465-27adbc4317a6"
+<INFO> 3-Oct-2018::16:16:51.376 dagobah confd[5354]: netconf id=30 get-config source=running attrs: message-id="urn:uuid:c52bdc21-8750-42ee-a465-27adbc4317a6"
+<INFO> 3-Oct-2018::16:16:51.382 dagobah confd[5354]: netconf id=30 sending rpc-reply, attrs: message-id="urn:uuid:c52bdc21-8750-42ee-a465-27adbc4317a6"
+<INFO> 3-Oct-2018::16:16:57.701 dagobah confd[5354]: netconf id=30 got rpc: {urn:ietf:params:xml:ns:netconf:base:1.0}get-config attrs: message-id="urn:uuid:bf3ccaa2-06f3-4e43-b639-7d13f9a58a7d"
+<INFO> 3-Oct-2018::16:16:57.701 dagobah confd[5354]: netconf id=30 get-config source=candidate attrs: message-id="urn:uuid:bf3ccaa2-06f3-4e43-b639-7d13f9a58a7d"
+<INFO> 3-Oct-2018::16:16:57.708 dagobah confd[5354]: netconf id=30 sending rpc-reply, attrs: message-id="urn:uuid:bf3ccaa2-06f3-4e43-b639-7d13f9a58a7d"
+<INFO> 3-Oct-2018::16:18:11.893 dagobah confd[5354]: netconf id=30 got rpc: {urn:ietf:params:xml:ns:netconf:base:1.0}edit-config attrs: message-id="urn:uuid:a35d187c-74cb-4a3d-9b8e-1a39e11f090c"
+<INFO> 3-Oct-2018::16:18:11.903 dagobah confd[5354]: netconf id=30 edit-config target=candidate attrs: message-id="urn:uuid:a35d187c-74cb-4a3d-9b8e-1a39e11f090c"
+<INFO> 3-Oct-2018::16:18:11.906 dagobah confd[5354]: netconf id=30 sending rpc-reply, attrs: message-id="urn:uuid:a35d187c-74cb-4a3d-9b8e-1a39e11f090c"
+<INFO> 3-Oct-2018::16:19:11.262 dagobah confd[5354]: netconf id=30 got rpc: {urn:ietf:params:xml:ns:netconf:base:1.0}get-config attrs: message-id="urn:uuid:4a0aba8c-f949-4103-81c4-271ff20b07f2"
+<INFO> 3-Oct-2018::16:19:11.263 dagobah confd[5354]: netconf id=30 get-config source=candidate attrs: message-id="urn:uuid:4a0aba8c-f949-4103-81c4-271ff20b07f2"
+<INFO> 3-Oct-2018::16:19:11.271 dagobah confd[5354]: netconf id=30 sending rpc-reply, attrs: message-id="urn:uuid:4a0aba8c-f949-4103-81c4-271ff20b07f2"
+<INFO> 3-Oct-2018::16:21:26.825 dagobah confd[5354]: netconf id=30 close-session attrs: message-id="urn:uuid:aeedd338-e366-4a16-b3ec-673f535284f3"
+<INFO> 3-Oct-2018::16:21:26.825 dagobah confd[5354]: netconf id=30 sending rpc-reply, attrs: message-id="urn:uuid:aeedd338-e366-4a16-b3ec-673f535284f3"
+<INFO> 3-Oct-2018::16:21:36.853 dagobah confd[5354]: netconf id=31 new tcp session for user "etu" from ::1
+<INFO> 3-Oct-2018::16:21:41.067 dagobah confd[5354]: netconf id=31 got rpc: {urn:ietf:params:xml:ns:netconf:base:1.0}get-config attrs: message-id="urn:uuid:ab477f50-d49f-4372-a5ae-62c88a1554a7"
+<INFO> 3-Oct-2018::16:21:41.067 dagobah confd[5354]: netconf id=31 get-config source=running attrs: message-id="urn:uuid:ab477f50-d49f-4372-a5ae-62c88a1554a7"
+<INFO> 3-Oct-2018::16:21:41.078 dagobah confd[5354]: netconf id=31 sending rpc-reply, attrs: message-id="urn:uuid:ab477f50-d49f-4372-a5ae-62c88a1554a7"
+<INFO> 3-Oct-2018::16:32:56.410 dagobah confd[5354]: netconf id=31 close-session attrs: message-id="urn:uuid:271fec31-3fa6-46ce-914f-fae81df035f6"
+<INFO> 3-Oct-2018::16:32:56.410 dagobah confd[5354]: netconf id=31 sending rpc-reply, attrs: message-id="urn:uuid:271fec31-3fa6-46ce-914f-fae81df035f6"
+<INFO> 3-Oct-2018::16:32:59.005 dagobah confd[5354]: netconf id=32 new tcp session for user "etu" from ::1
+<INFO> 3-Oct-2018::16:33:15.650 dagobah confd[5354]: netconf id=32 close-session attrs: message-id="urn:uuid:702830ae-2bf3-4c74-b062-c26f03253c4d"
+<INFO> 3-Oct-2018::16:33:15.650 dagobah confd[5354]: netconf id=32 sending rpc-reply, attrs: message-id="urn:uuid:702830ae-2bf3-4c74-b062-c26f03253c4d"
+<INFO> 3-Oct-2018::16:35:57.949 dagobah confd[5354]: netconf id=33 new tcp session for user "etu" from ::1
+<INFO> 3-Oct-2018::16:39:25.462 dagobah confd[5354]: netconf id=33 close-session attrs: message-id="urn:uuid:2eb1cd46-12f4-4aeb-b249-ac333f0fc036"
+<INFO> 3-Oct-2018::16:39:25.463 dagobah confd[5354]: netconf id=33 sending rpc-reply, attrs: message-id="urn:uuid:2eb1cd46-12f4-4aeb-b249-ac333f0fc036"

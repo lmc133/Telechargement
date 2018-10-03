@@ -1,0 +1,9 @@
+<INFO> 3-Oct-2018::14:29:46.622 dagobah confd[5354]: confd embedded apps in early_phase0: []
+<INFO> 3-Oct-2018::14:29:46.715 dagobah confd[5354]: confd mmap_schema handle_info got msg: timeout
+<INFO> 3-Oct-2018::14:29:46.727 dagobah confd[5354]: confd embedded apps in phase0: []
+<INFO> 3-Oct-2018::14:29:46.944 dagobah confd[5354]: devel-cdb init files found in ./confd-cdb: aaa_init.xml
+<INFO> 3-Oct-2018::14:29:46.977 dagobah confd[5354]: devel-cdb Compacted CDB journal file: 8 ms (87 nodes in memory, disk size 1.43 KiB -> 1.39 KiB)
+<INFO> 3-Oct-2018::14:29:46.981 dagobah confd[5354]: confd embedded apps in phase1: []
+<ERR> 3-Oct-2018::14:29:47.010 dagobah confd[5354]: devel-aaa Module "tailf-webui" in access rule "any-group/tailf-webui-user" does not exist - ignoring rule
+<INFO> 3-Oct-2018::14:29:47.038 dagobah confd[5354]: confd embedded apps in phase1_delayed: []
+<INFO> 3-Oct-2018::14:29:47.041 dagobah confd[5354]: confd embedded apps in phase2: []
